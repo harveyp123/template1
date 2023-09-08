@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HarveyP123.github.io/sitemap.xml
+Sitemap: https://harveyp123.github.io/sitemap.xml
